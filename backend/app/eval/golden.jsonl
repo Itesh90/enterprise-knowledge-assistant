@@ -1,0 +1,6 @@
+{"query":"What is RAG?","answers":["Retrieval-augmented generation retrieves relevant context then generates grounded answers."],"doc_titles":["rag_basics"],"k":20}
+{"query":"Which embedding model is recommended?","answers":["BAAI/bge-large-en-v1.5"],"doc_titles":["bge_overview"],"k":20}
+{"query":"What is FAISS used for?","answers":["similarity search","dense vector search"],"doc_titles":["faiss_overview"],"k":20}
+{"query":"What should the assistant do when unsure?","answers":["say I’m not sure","avoid speculation"],"doc_titles":["safety_principles"],"k":20}
+{"query":"What does EKA combine for answers?","answers":["FAISS index with BGE embeddings"],"doc_titles":["eka_intro"],"k":20}
+
